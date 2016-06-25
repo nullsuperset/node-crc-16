@@ -18,3 +18,6 @@ console.log('crc:', crc);
 
 ##### `buffer`: *`<Buffer>`*
 `Buffer` of `UInt8`-like bytes. Any element larger than 8 bits (`0xff`) will be truncated.
+
+##### returns `<Buffer>`
+`Buffer` with length 2 containing the 16-bit CRC.
