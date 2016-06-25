@@ -1,0 +1,28 @@
+{
+  "name": "crc-16",
+  "version": "0.0.1",
+  "description": "16-bit cyclic redundancy check calculator & validator with custom polynomials",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nullsuperset/node-crc-16.git"
+  },
+  "keywords": [
+    "crc",
+    "cyclic redundancy check"
+  ],
+  "author": "Null Superset <null.superset@enhack.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nullsuperset/node-crc-16/issues"
+  },
+  "homepage": "https://github.com/nullsuperset/node-crc-16#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {}
+}
