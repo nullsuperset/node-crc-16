@@ -1,7 +1,7 @@
 {
   "name": "crc-16",
   "version": "0.0.2",
-  "description": "16-bit cyclic redundancy check calculator & validator with custom polynomials",
+  "description": "Calculates the 16-bit cyclic redundancy check (CRC) used in IrDA & PPP",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter list"
