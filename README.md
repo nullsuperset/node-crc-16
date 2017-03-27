@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install --save get-port
+$ npm install --save crc-16
 ```
 
 
